@@ -1,0 +1,22 @@
+{
+  "name": "webot-meiva",
+  "version": "1.0.0",
+  "description": "robot of wechat",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imyoka/webot-meiva.git"
+  },
+  "keywords": [
+    "webot-meiva"
+  ],
+  "author": "schwarz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imyoka/webot-meiva/issues"
+  },
+  "homepage": "https://github.com/imyoka/webot-meiva#readme"
+}
